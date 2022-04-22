@@ -56,6 +56,30 @@
                 <mxCell id="14" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.2-way_switch;rotation=-180;" vertex="1" parent="1">
                     <mxGeometry x="320" y="440" width="75" height="26" as="geometry"/>
                 </mxCell>
+                <mxCell id="20" value="Single LED, with Switch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="354" y="230" width="96" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="Trent&lt;br&gt;TEJ3M&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Unit 4-05&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="210" width="80" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="102.5" y="510" width="175" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="Single LED, and Switch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="510" width="187.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="Input A&amp;nbsp; &amp;nbsp; &amp;nbsp;l&amp;nbsp; &amp;nbsp; Output&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="115" y="540" width="130" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="260" y="570" as="sourcePoint"/>
+                        <mxPoint x="110" y="570" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="28" value="0&amp;nbsp; &amp;nbsp; &amp;nbsp;l&amp;nbsp; &amp;nbsp; 0&lt;br&gt;&amp;nbsp;1&amp;nbsp; &amp;nbsp; &amp;nbsp;l&amp;nbsp; &amp;nbsp; &amp;nbsp;1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="115" y="570" width="125" height="30" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
